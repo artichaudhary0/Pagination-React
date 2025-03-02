@@ -1,4 +1,4 @@
-# Advanced React Redux Blog
+# Advanced React Redux Blog Website 
 
 A modern, feature-rich blog application built with React, Redux Toolkit, and JSONPlaceholder API. This project demonstrates best practices in React development, state management with Redux, and responsive design.
 
